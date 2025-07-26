@@ -1,0 +1,19 @@
+{
+  "name": "notificador-interno",
+  "version": "1.0.0",
+  "description": "Serviço de notificação interna com autenticação e tratamento de erros",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
